@@ -3,6 +3,9 @@ uuid = "cbaa3187-80c3-4be7-a499-4fbf6e666fdf"
 authors = ["khintz"]
 version = "0.1.0"
 
+[deps]
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
+
 [compat]
 julia = "1.5.2"
 
